@@ -1,0 +1,3 @@
+- Standard errors can help with hypothesis testing
+    - If no relationwhip, LR y = mx + b has m = 0, 
+    - Assume relationship if : p value > 0.01 and t is relatively large in relation to standard error
